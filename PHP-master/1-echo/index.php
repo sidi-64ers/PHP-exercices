@@ -7,8 +7,10 @@
     <title>PHP Echo</title>
 </head>
 <body>
+
     <?php 
-        echo " <div> \"Hello, World !\" </div> "; //affiche le contenu de la balise php sur le navigateur
+        echo " <div> \"Hello, World !\" </div> "; // display the content of the php tag on the browser
+
     ?>
 </body>
 </html>
