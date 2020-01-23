@@ -23,4 +23,13 @@ $preferences = array(
 ); 
 var_dump($preferences);
 
+var_dump(array_values($preferences));
+
+
+$occurences = array_count_values($preferences); // compte le nbre d'occurences
+var_dump($occurences);
+
+arsort($occurences);  // tri les occurences selon la valeur
+var_dump($occurences);
+
 ?>
