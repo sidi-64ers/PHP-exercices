@@ -1,6 +1,5 @@
-<?php 
+
     
-    include "template/menu.php"; ?>
 
     <div class="">
     <div class="container-fluid bg-1 text-center">
@@ -25,4 +24,3 @@
     </div>
     
 
-    <?php include "template/footer.php"; ?>

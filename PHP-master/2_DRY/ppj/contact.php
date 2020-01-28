@@ -1,5 +1,5 @@
 <?php
-        include 'template/menu.php';
+     
        
     ?>
 
@@ -28,9 +28,9 @@
     </div>
 
 
-    <?php
+    
 
-        include 'template/footer.php';
+  
 
-    ?>
+    
 

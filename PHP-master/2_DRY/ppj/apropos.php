@@ -1,8 +1,4 @@
-<?php
 
-include 'template/menu.php';
-
-?>
 
 
     <!-- First Container -->
@@ -46,7 +42,3 @@ include 'template/menu.php';
         </div>
     </div>
 
- <?php
-     include 'template/footer.php';
-
-    ?>
